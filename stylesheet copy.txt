@@ -1,0 +1,47 @@
+Body { 
+background-color: yellow;
+font-family: sans-serif;
+}
+h1 {
+color: red;
+font-size: 100px; 
+margin-top: 0px; 
+margin-bottom: 15px; 
+font-align: center;
+}
+h2,{font-size: 40px;
+color: black;}
+
+p {font-size: 40px;
+color: red;
+}
+
+h3{
+display:inline;
+float:left;
+}
+
+h4 {
+display:inline;
+float:center;
+}
+
+h5 {
+display:inline;
+float:right;
+
+}
+
+label { 
+display: block; 
+margin: 0.5rem 0; 
+} 
+
+fieldset { 
+background: red; 
+font-size: 40px;}
+
+img { 
+margin-top: -25px;
+  display: block;
+}

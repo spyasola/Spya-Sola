@@ -1,0 +1,31 @@
+Body { 
+background-color: yellow;
+font-family: sans-serif;
+}
+h1 {
+color: red;
+font-size: 100px; 
+margin-top: 0px; 
+margin-bottom: 15px; 
+font-align: center;
+}
+h2 {font-size: 40px;
+color: black;}
+
+h3 { color: red;}
+
+p {font-size: 40px;
+color: black;
+}
+
+
+
+label { 
+display: block; 
+margin: 0.5rem 0; 
+} 
+
+fieldset { 
+background: red; 
+font-size: 40px;}
+

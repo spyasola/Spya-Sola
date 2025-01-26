@@ -1,0 +1,22 @@
+Body {
+Background-color: red;
+font-family: sans-serif;
+}
+h1 {
+color: yellow;
+font-size: 100px; 
+margin-top: 0px; 
+margin-bottom: 15px; 
+font-align: center;
+}
+H2 {font-size: 40px;
+color: yellow;}
+p {font-size: 40px; }
+ 
+.column-left{ display: inline-block;  }
+.column-right{ display: inline-block;  }
+.column-center{ display: inline-block;  }
+
+h3, h4, h5, h6, h7 { font-size: 40px;
+}
+
